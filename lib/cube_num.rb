@@ -6,7 +6,6 @@
 #   # => 343
 #
 # Returns the number cubed.
-
 def cube_num(num)
     return num*num*num
 end

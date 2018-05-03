@@ -4,11 +4,10 @@
 #
 # Examples
 #
-#   sum_to(5)
-#   # => 15
+#   factorial(5)
+#   # => 120
 #
 # Returns your number times all the numbers before.
-
 def factorial(num)
     i = num -1
     output = num

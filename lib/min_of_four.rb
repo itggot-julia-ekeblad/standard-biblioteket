@@ -9,7 +9,6 @@
 #   # => -21
 #
 # Returns the smalles of your numbers.
-
 def min_of_four(num1, num2, num3, num4)
     numbers = [num1, num2, num3, num4]
     output = numbers[0]

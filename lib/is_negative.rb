@@ -6,7 +6,6 @@
 #   # => false
 #
 # Returns true or false, depending on if the number is negative or not.
-
 def is_negative(num)
     if num < 0
         return true

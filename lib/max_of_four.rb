@@ -9,7 +9,6 @@
 #   # => 7
 #
 # Returns the biggest of your numbers.
-
 def max_of_four(num1, num2, num3, num4)
     numbers = [num1, num2, num3, num4]
     output = numbers[0]

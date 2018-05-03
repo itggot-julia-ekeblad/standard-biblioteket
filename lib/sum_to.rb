@@ -8,7 +8,6 @@
 #   # => 15
 #
 # Returns the added together numbers.
-
 def sum_to(num)
     i = num
     output = 0

@@ -6,7 +6,6 @@
 #   # => 49
 #
 # Returns the number squared.
-
 def square_num(num)
     return num*num
 end

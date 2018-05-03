@@ -6,7 +6,6 @@
 #   # => 7
 #
 # Returns the absolute of your number.
-
 def absolute(num)
     return num.abs
 end

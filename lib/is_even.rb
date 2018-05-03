@@ -6,7 +6,6 @@
 #   # => false
 #
 # Returns true or false, depending on if the number is even or not.
-
 def is_even(num)
     if num % 2 == 0
         return true

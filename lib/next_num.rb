@@ -6,7 +6,6 @@
 #   # => 8
 #
 # Returns the next number
-
 def next_num(num)
     return num + 1
 end

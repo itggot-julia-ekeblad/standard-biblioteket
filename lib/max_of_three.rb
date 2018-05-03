@@ -8,7 +8,6 @@
 #   # => 7
 #
 # Returns the biggest of your numbers.
-
 def max_of_three(num1, num2, num3)
     output = 0
     if num1 > num2 and num1 > num3

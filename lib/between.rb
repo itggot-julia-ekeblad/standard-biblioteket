@@ -8,7 +8,6 @@
 #   # => true
 #
 # Returns true or false, depending on if the middle number is between first and last.
-
 def between(middle, first, last)
     if first < middle and middle < last
         return true
